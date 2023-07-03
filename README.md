@@ -4,3 +4,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick and merge.
 Creating a new branch is bra.
+Creating a new branch is bra and merge to dev.
